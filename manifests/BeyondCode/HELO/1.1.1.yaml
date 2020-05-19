@@ -1,0 +1,12 @@
+Id: BeyondCode.HELO
+Name: HELO
+Version: 1.1.1
+Publisher: Beyond Code
+Homepage: https://usehelo.com
+Description: The swiss-army-knife of email testing and debugging.
+License: Commercial (c) 2020 Beyond Code
+InstallerType: Nullsoft
+Installers:
+  - Arch: x64
+    Url: https://helo.fra1.digitaloceanspaces.com/helo/HELO%20Setup%201.1.1.exe
+    Sha256: 6efdb0af4799330782dad3ac01fbcc1a77b66a92e5b058e43d43b512a79d6bb4
