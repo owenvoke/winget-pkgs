@@ -1,0 +1,12 @@
+Id: BeyondCode.Tinkerwell
+Name: Tinkerwell
+Version: 2.7.0
+Publisher: Beyond Code
+Homepage: https://tinkerwell.app
+Description: The magical code editor that runs your code within local and remote PHP applications.
+License: Commercial (c) 2020 Beyond Code
+InstallerType: Nullsoft
+Installers:
+  - Arch: x64
+    Url: https://tinkerwell.fra1.digitaloceanspaces.com/tinkerwell/Tinkerwell%20Setup%202.7.0.exe
+    Sha256: d28c6f2e3a07e65115ce8f2484d91e8abb26e59e831183d71e766cf263fd991e
